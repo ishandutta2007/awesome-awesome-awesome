@@ -1,17 +1,29 @@
+<!-- SEO Meta Tags -->
+<meta name="description" content="Awesome Awesome Awesome - A curated list of the most important tools, frameworks, and resources for AI, Robotics, Biotech, Quantum, and Space Tech defining the next several decades.">
+<meta name="keywords" content="AI, Machine Learning, Generative AI, Robotics, Drones, Computational Biology, Drug Discovery, Chip Design, EDA, Quantum Computing, Space Tech, Future Tech, Awesome List">
+
 <div align="center">
-  <img width="500" src="media/logo.svg" alt="Awesome Awesome Awesome">
-  <br><br>
-  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <br><br>
+  <img src="media/banner.svg" alt="Awesome Awesome Awesome Banner" width="100%">
+  <br>
+  <h1>🚀 Awesome Awesome Awesome 🤖</h1>
+  <p align="center">
+    <a href="https://github.com/ishandutta2007/awesome-awesome-awesome/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/awesome-awesome-awesome?style=for-the-badge&color=38bdf8" alt="GitHub stars"></a>
+    <a href="https://github.com/ishandutta2007/awesome-awesome-awesome/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/awesome-awesome-awesome?style=for-the-badge&color=818cf8" alt="GitHub forks"></a>
+    <a href="https://github.com/ishandutta2007/awesome-awesome-awesome/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/awesome-awesome-awesome?style=for-the-badge&color=38bdf8" alt="GitHub license"></a>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
+  </p>
+  <br>
   <p>
-    <b>A curated list of the most important tools, frameworks, papers, datasets, and resources<br>for the technologies defining the next several decades.</b>
+    <b>💎 A curated list of the most important tools, frameworks, papers, datasets, and resources<br>for the technologies defining the next several decades. 💎</b>
   </p>
   <p>
-    <i>Not for web devs. For builders of the future.</i>
+    <i>🛰️ Not for web devs. For builders of the future. 🧬</i>
   </p>
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-divider.gif" width="100%">
+</p>
 
 > **Scope:** AI/ML, Generative AI, Robotics, Drones, Computational Biology, Computational Chemistry, EDA & Chip Design, Semiconductor Ecosystems, Computational Energy, Extended Reality (XR), Quantum Computing, Space Tech, and more — all technologies with outsized impact in the coming decades.
 
