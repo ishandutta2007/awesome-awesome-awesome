@@ -459,9 +459,9 @@
 
 ---
 
-## Computational Chemistry
+## 🧪 Computational Chemistry
 
-### Molecular Dynamics
+### ⚛️ Molecular Dynamics
 
 - [GROMACS](https://github.com/gromacs/gromacs) — The fastest MD simulation package; widely used for biomolecular systems.
 - [NAMD](https://www.ks.uiuc.edu/Research/namd) — Scalable MD for large biomolecular systems on supercomputers.
@@ -470,7 +470,7 @@
 - [AMBER](https://ambermd.org) — The standard for biomolecular MD with extensive force field support.
 - [MDAnalysis](https://github.com/MDAnalysis/mdanalysis) — Python library to analyze MD trajectories; the NumPy of MD analysis.
 
-### Quantum Chemistry
+### 🔬 Quantum Chemistry
 
 - [PySCF](https://github.com/pyscf/pyscf) — Python-based quantum chemistry; DFT, HF, CCSD, CASSCF — research-grade.
 - [Psi4](https://github.com/psi4/psi4) — Open-source ab initio quantum chemistry; strong NMR and property predictions.
@@ -479,7 +479,7 @@
 - [Gaussian](https://gaussian.com) — The most-cited quantum chemistry software; standard reference for DFT results.
 - [DIRAC](https://diracprogram.org) — Relativistic quantum chemistry; essential for heavy-element calculations.
 
-### Materials Science Simulation
+### 🏗️ Materials Science Simulation
 
 - [VASP](https://www.vasp.at) — Vienna Ab initio Simulation Package; dominant for DFT in materials science.
 - [Quantum ESPRESSO](https://github.com/QEF/q-e) — Open-source DFT for electronic structure and materials properties.
@@ -489,7 +489,7 @@
 - [Materials Project](https://materialsproject.org) — Open database of computed materials properties for 150,000+ compounds.
 - [ICET](https://icet.materialsmodeling.org) — Cluster expansion toolkit for alloy thermodynamics.
 
-### Cheminformatics
+### 💻 Cheminformatics
 
 - [RDKit](https://github.com/rdkit/rdkit) — The most complete open-source cheminformatics library; fingerprints, descriptors, reactions.
 - [Open Babel](https://github.com/openbabel/openbabel) — Chemical format converter and toolbox for 111+ formats.
@@ -498,7 +498,7 @@
 - [Datamol](https://github.com/datamol-io/datamol) — Molecular data processing built on RDKit; clean, modern API.
 - [Mordred](https://github.com/mordred-descriptor/mordred) — 1800+ molecular descriptors for QSAR and ML feature generation.
 
-### AI for Chemistry
+### 🤖 AI for Chemistry
 
 - [MACE](https://github.com/ACEsuit/mace) — State-of-the-art equivariant ML interatomic potential; fast and accurate.
 - [SchNet](https://github.com/atomistic-machine-learning/schnetpack) — Deep learning for atomistic systems; energy, forces, and properties.
@@ -510,9 +510,9 @@
 
 ---
 
-## Chip Design & EDA
+## 📟 Chip Design & EDA
 
-### Open-Source EDA Tools
+### 🛠️ Open-Source EDA Tools
 
 - [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) — Complete RTL-to-GDSII flow; the open-source tape-out pipeline for digital chips.
 - [KLayout](https://github.com/KLayout/klayout) — Layout editor and viewer for IC design; the open-source Virtuoso.
@@ -523,7 +523,7 @@
 - [Yosys](https://github.com/YosysHQ/yosys) — Open synthesis suite for Verilog; synthesizes RTL to gate-level netlists.
 - [OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA) — Static timing analysis for digital circuits; used in the OpenROAD flow.
 
-### Hardware Description Languages
+### 💻 Hardware Description Languages
 
 - [Chisel](https://github.com/chipsalliance/chisel) — Scala-based HDL from UC Berkeley; generates synthesizable Verilog.
 - [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) — Scala HDL with strong type system; used for RISC-V and DSP designs.
@@ -533,7 +533,7 @@
 - [MyHDL](https://github.com/myhdl/myhdl) — Python as a hardware description language with simulation support.
 - [SystemVerilog](https://www.accellera.org) — Industry-standard HDL+HVL; ubiquitous in professional ASIC design.
 
-### FPGA Toolchains
+### 🔌 FPGA Toolchains
 
 - [SymbiFlow / F4PGA](https://github.com/chipsalliance/f4pga) — Fully open-source FPGA toolchain for Xilinx, Lattice, and QuickLogic.
 - [nextpnr](https://github.com/YosysHQ/nextpnr) — FPGA place-and-route framework; backend for SymbiFlow and iCEStorm.
@@ -542,7 +542,7 @@
 - [LiteX](https://github.com/enjoy-digital/litex) — Python SoC builder framework; rapidly build FPGA systems with CPU cores.
 - [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA) — Open-source FPGA fabric modeling and design automation framework.
 
-### AI-Assisted Chip Design
+### 🤖 AI-Assisted Chip Design
 
 - [ChipNeMo (NVIDIA)](https://arxiv.org/abs/2311.00176) — LLM fine-tuned for chip design assistance; EDA scripting, bug analysis.
 - [OpenLane 2](https://github.com/efabless/openlane2) — Modern automated RTL-to-GDSII flow with Python API; used for Skywater PDK.
@@ -550,7 +550,7 @@
 - [ChipChat](https://github.com/excerebrose/chipchat) — LLM-assisted hardware design via natural language specification.
 - [RTLCoder](https://github.com/hkust-zhiyao/RTLCoder) — LLM for RTL code generation; fine-tuned specifically on Verilog/VHDL.
 
-### Verification & Formal Methods
+### 🛡️ Verification & Formal Methods
 
 - [cocotb](https://github.com/cocotb/cocotb) — Python-based hardware verification; write testbenches in Python, not SystemVerilog.
 - [PyUVM](https://github.com/pyuvm/pyuvm) — UVM verification methodology in Python; modern alternative to SV-UVM.
@@ -561,9 +561,9 @@
 
 ---
 
-## Semiconductor Ecosystem
+## 🔌 Semiconductor Ecosystem
 
-### Process Design Kits (PDKs)
+### 📐 Process Design Kits (PDKs)
 
 - [SkyWater SKY130 PDK](https://github.com/google/skywater-pdk) — Google-sponsored 130nm open-source PDK; first truly open commercial process.
 - [GF180MCU PDK](https://github.com/google/gf180mcu-pdk) — GlobalFoundries 180nm open PDK; enables analog and mixed-signal open silicon.
@@ -571,7 +571,7 @@
 - [ASAP7](https://github.com/The-OpenROAD-Project/asap7) — Predictive 7nm FinFET PDK for academic research into advanced nodes.
 - [FreePDK45](https://www.eda.ncsu.edu/wiki/FreePDK45:Contents) — NCSU 45nm predictive technology model for EDA research.
 
-### Open Silicon Initiatives
+### 🔓 Open Silicon Initiatives
 
 - [Efabless](https://efabless.com) — Platform for open-source chip design submissions to Google-sponsored shuttles.
 - [Tiny Tapeout](https://tinytapeout.com) — Shared silicon runs for low-cost custom chip fabrication; educational focus.
@@ -579,7 +579,7 @@
 - [CHIPS Alliance](https://chipsalliance.org) — Linux Foundation project for open-source hardware and IP.
 - [FOSSi Foundation](https://fossi-foundation.org) — Free and open-source silicon foundation; hosts ORConf and GSoC.
 
-### RISC-V Ecosystem
+### ⚙️ RISC-V Ecosystem
 
 - [RISC-V International](https://riscv.org) — Open ISA specification; the Linux of instruction set architectures.
 - [CVA6 (ARIANE)](https://github.com/openhwgroup/cva6) — Application-class RISC-V processor; supports Linux, verified design.
@@ -590,7 +590,7 @@
 - [OpenTitan](https://github.com/lowRISC/opentitan) — Open-source secure microcontroller; transparent silicon root of trust.
 - [RISC-V Sail Model](https://github.com/riscv/sail-riscv) — Formal RISC-V ISA specification for verification and compliance testing.
 
-### GPU & Accelerator Programming
+### 🚀 GPU & Accelerator Programming
 
 - [CUDA](https://developer.nvidia.com/cuda-toolkit) — NVIDIA's parallel computing platform; powers most AI and HPC workloads.
 - [HIP (AMD ROCm)](https://github.com/ROCm/HIP) — CUDA-compatible API for AMD GPUs; enables portable GPU code.
@@ -602,7 +602,7 @@
 - [XLA](https://github.com/openxla/xla) — Accelerated Linear Algebra; compiles ML computations for TPU, GPU, CPU.
 - [SYCL / DPC++](https://github.com/intel/llvm) — Intel's heterogeneous programming model for CPUs, GPUs, and FPGAs.
 
-### Neuromorphic Computing
+### 🧠 Neuromorphic Computing
 
 - [Intel Lava](https://github.com/lava-nc/lava) — Software framework for neuromorphic computing on Intel Loihi chips.
 - [PyNN](https://github.com/NeuralEnsemble/PyNN) — Common interface for spiking neural network simulators (NEST, NEURON, Brian).
@@ -613,9 +613,9 @@
 
 ---
 
-## Computational Energy
+## 🔋 Computational Energy
 
-### Grid Simulation & Optimization
+### ⚡ Grid Simulation & Optimization
 
 - [PyPSA](https://github.com/PyPSA/pypsa) — Python for Power System Analysis; models electricity networks at any scale.
 - [GridLAB-D](https://github.com/gridlab-d/gridlab-d) — Distribution system simulation tool developed by the US DOE.
@@ -625,7 +625,7 @@
 - [PowerSystems.jl](https://github.com/NREL-Sienna/PowerSystems.jl) — Julia package for power systems modeling; NREL's next-gen energy simulation.
 - [REISE (NREL)](https://github.com/Breakthrough-Energy/REISE.jl) — Production cost model for bulk power systems with renewable integration.
 
-### Renewable Energy Modeling
+### ☀️ Renewable Energy Modeling
 
 - [PVLIB](https://github.com/pvlib/pvlib-python) — Python library for solar energy system modeling and irradiance simulation.
 - [WindPowerLib](https://github.com/wind-python/windpowerlib) — Models wind turbine power output from meteorological data.
@@ -634,7 +634,7 @@
 - [atlite](https://github.com/PyPSA/atlite) — Convert weather data to renewable energy generation time series.
 - [GlobalSolarAtlas](https://globalsolaratlas.info) — World Bank solar resource database; irradiance data for project development.
 
-### Battery & Storage Simulation
+### 🔋 Battery & Storage Simulation
 
 - [PyBaMM](https://github.com/pybamm-team/PyBaMM) — Python Battery Mathematical Modelling; physics-based battery simulation.
 - [CAEBAT (NREL)](https://github.com/NREL/CAEBAT) — Computer-Aided Engineering for Batteries; multi-scale, multi-physics.
@@ -642,7 +642,7 @@
 - [Battery Archive](https://batteryarchive.org) — Open dataset of battery cycle-life experiments for ML model training.
 - [ORBIS](https://github.com/NREL/ORBIT) — Offshore wind project cost and schedule model.
 
-### Energy Systems AI
+### 🧠 Energy Systems AI
 
 - [EnergyPlus](https://github.com/NREL/EnergyPlus) — Building energy simulation engine; models HVAC, lighting, renewables.
 - [Sinergym](https://github.com/ugr-sail/sinergym) — Reinforcement learning environment for building energy management.
@@ -652,9 +652,9 @@
 
 ---
 
-## Extended Reality (XR)
+## 👓 Extended Reality (XR)
 
-### VR/AR Engines & SDKs
+### 👓 VR/AR Engines & SDKs
 
 - [Unity XR Toolkit](https://github.com/Unity-Technologies/com.unity.xr.interaction.toolkit) — Unity's official XR interaction framework; the standard for VR/AR in Unity.
 - [Unreal Engine XR](https://dev.epicgames.com/documentation/en-us/unreal-engine/xr-development) — Photorealistic XR development in Unreal; used in enterprise training and film.
@@ -665,7 +665,7 @@
 - [OpenXR](https://github.com/KhronosGroup/OpenXR-SDK) — Open standard runtime API for VR/AR hardware; the cross-vendor foundation.
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) — Powerful web rendering engine with strong WebXR and glTF support.
 
-### Spatial Computing
+### 🗺️ Spatial Computing
 
 - [Apple RealityKit / ARKit](https://developer.apple.com/augmented-reality) — Apple's spatial computing stack for Vision Pro and iPhone AR.
 - [ARCore (Google)](https://github.com/google-ar/arcore-android-sdk) — Google's AR platform for Android; world understanding, anchors, occlusion.
@@ -674,16 +674,16 @@
 - [SpaceSpatial / polyspatial](https://github.com/Unity-Technologies/com.unity.polyspatial.visionos) — Unity tooling for visionOS spatial computing.
 - [OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) — Pixar's Universal Scene Description; the emerging standard for 3D scene interchange.
 
-### Neural Rendering & NeRF
+### 📸 Neural Rendering & NeRF
 
-- [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) — Real-time rendering of scenes from photos; revolutionary for XR content capture.
+- [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) — Real-time rendering of scenes from photos; revolutionizing 3D capture.
 - [Nerfstudio](https://github.com/nerfstudio-project/nerfstudio) — Framework for training, visualizing, and exporting NeRF scenes.
 - [Instant NGP (NVIDIA)](https://github.com/NVlabs/instant-ngp) — Hash grid NeRF; trains in seconds, renders in real-time.
 - [ZipNeRF](https://github.com/google-research/multinerf) — Anti-aliased NeRF from Google; best-in-class unbounded scene reconstruction.
 - [SuGaR](https://github.com/Anttwo/SuGaR) — Extracts editable meshes from Gaussian Splatting scenes.
 - [4D Gaussian Splatting](https://github.com/hustvl/4DGaussians) — Dynamic scene reconstruction for video → XR applications.
 
-### Haptics
+### ✋ Haptics
 
 - [OpenHaptics (3D Systems)](https://www.3dsystems.com/haptics-devices/openhaptics) — SDK for the Touch haptic device; medical simulation and design.
 - [CHAI3D](https://github.com/chai3d/chai3d) — Open-source framework for haptic rendering in VR environments.
@@ -692,9 +692,9 @@
 
 ---
 
-## Quantum Computing
+## ⚛️ Quantum Computing
 
-### Quantum Frameworks
+### 💻 Quantum Frameworks
 
 - [Qiskit (IBM)](https://github.com/Qiskit/qiskit) — The most used open-source quantum computing framework; full stack.
 - [PennyLane (Xanadu)](https://github.com/PennyLaneAI/pennylane) — Differentiable quantum programming; bridges quantum hardware and ML.
@@ -705,7 +705,7 @@
 - [CUDA Quantum (NVIDIA)](https://github.com/NVIDIA/cuda-quantum) — Hybrid quantum-classical programming model for GPU-accelerated quantum simulation.
 - [tket (Quantinuum)](https://github.com/CQCL/tket) — Retargetable quantum circuit compiler; optimizes for any backend.
 
-### Quantum Simulation
+### 🌀 Quantum Simulation
 
 - [QuTiP](https://github.com/qutip/qutip) — Quantum Toolbox in Python; open quantum systems simulation.
 - [Qulacs](https://github.com/qulacs/qulacs) — Fastest open-source quantum circuit simulator; GPU-accelerated.
@@ -713,7 +713,7 @@
 - [TensorCircuit](https://github.com/tencent-quantum-lab/tensorcircuit) — Quantum circuit simulation via tensor network contraction; JAX/TensorFlow backend.
 - [mVMC](https://github.com/issp-center-dev/mVMC) — Variational Monte Carlo for strongly correlated quantum systems.
 
-### Quantum Error Correction
+### 🛡️ Quantum Error Correction
 
 - [Stim](https://github.com/quantumlib/Stim) — Fast stabilizer circuit simulator for quantum error correction research.
 - [PyMatching](https://github.com/oscarhiggott/PyMatching) — Fast minimum-weight perfect matching decoder for surface codes.
@@ -722,9 +722,9 @@
 
 ---
 
-## Space Technology
+## 🌌 Space Technology
 
-### Orbital Mechanics & Astrodynamics
+### 🪐 Orbital Mechanics & Astrodynamics
 
 - [Poliastro](https://github.com/poliastro/poliastro) — Python library for orbital mechanics; ideal for mission analysis and trajectory design.
 - [GMAT](https://sourceforge.net/projects/gmat) — NASA's General Mission Analysis Tool; high-fidelity trajectory simulation.
@@ -733,7 +733,7 @@
 - [Skyfield](https://github.com/brandon-rhodes/python-skyfield) — Accurate satellite position prediction from TLE data.
 - [Tudat](https://github.com/tudat-team/tudat) — TU Delft astrodynamics toolset; propagation, estimation, optimization.
 
-### Satellite Software
+### 🛰️ Satellite Software
 
 - [FlatSat Framework (NASA)](https://github.com/nasa/FlatSat) — NASA flat-sat satellite integration and testing framework.
 - [cFS (Core Flight System)](https://github.com/nasa/cFS) — NASA's reusable flight software framework; used on many real missions.
@@ -742,7 +742,7 @@
 - [SatDump](https://github.com/SatDump/SatDump) — All-in-one satellite data decoding; weather satellites to LEO imagery.
 - [LibreSpace (SatNOGS)](https://github.com/satnogs) — Open-source satellite ground station network; crowd-sourced telemetry.
 
-### Space AI & Remote Sensing
+### 🛰️ Space AI & Remote Sensing
 
 - [TorchGeo](https://github.com/microsoft/torchgeo) — PyTorch datasets and models for geospatial and satellite imagery.
 - [GDAL](https://github.com/OSGeo/gdal) — Geospatial Data Abstraction Library; universal format translation for Earth observation.
@@ -753,7 +753,7 @@
 
 ---
 
-## Edge & Embedded AI
+## 📱 Edge & Embedded AI
 
 - [TensorFlow Lite](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite) — ML on mobile, microcontrollers, and edge devices; quantization built-in.
 - [ONNX Runtime Mobile](https://github.com/microsoft/onnxruntime) — Optimized inference for edge; runs on iOS, Android, Raspberry Pi.
@@ -768,7 +768,7 @@
 
 ---
 
-## Autonomous Vehicles
+## 🚗 Autonomous Vehicles
 
 - [Apollo (Baidu)](https://github.com/ApolloAuto/apollo) — The most complete open-source autonomous driving platform.
 - [CARLA](https://github.com/carla-simulator/carla) — Open-source photorealistic AV simulator; the research standard.
@@ -783,7 +783,7 @@
 
 ---
 
-## AI Safety & Alignment Research
+## 🛡️ AI Safety & Alignment Research
 
 - [Alignment Forum](https://alignmentforum.org) — Primary venue for technical AI safety research discussion.
 - [ARC Evals (METR)](https://github.com/METR/uplift-clone-detection) — Model evaluation for dangerous capabilities and autonomy.
@@ -797,7 +797,7 @@
 
 ---
 
-## Open Datasets for Future Tech
+## 💾 Open Datasets for Future Tech
 
 - [The Pile (EleutherAI)](https://pile.eleuther.ai) — 825GB diverse text dataset for LLM pre-training; fully documented.
 - [RedPajama-Data-v2](https://github.com/togethercomputer/RedPajama-Data) — 30T token open pre-training dataset with quality signals.
@@ -813,7 +813,7 @@
 
 ---
 
-## Research Paper Hubs
+## 📝 Research Paper Hubs
 
 - [arXiv](https://arxiv.org) — The preprint server for AI, physics, math, biology, and CS; where research lands first.
 - [Semantic Scholar](https://www.semanticscholar.org) — AI-powered research paper search with citation graphs and TLDR summaries.
@@ -826,7 +826,7 @@
 
 ---
 
-## Communities & Conferences
+## 🤝 Communities & Conferences
 
 - [NeurIPS](https://neurips.cc) — Top venue for ML and AI research; sets the agenda annually.
 - [ICML](https://icml.cc) — International Conference on Machine Learning; core theoretical AI research.
@@ -843,12 +843,16 @@
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 See [contributing.md](contributing.md). All contributions welcome — especially entries in underrepresented domains. Each entry must include a URL and a one-line description of why it matters, not just what it is.
 
-## License
+## ⚖️ License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, [Ishan Dutta](https://github.com/ishandutta2007) has waived all copyright and related rights to this work.
+
+<!-- SEO Keywords (Hidden)
+AI ML Generative AI LLM Robotics Drones Computational Biology Drug Discovery Chip Design Semiconductor Energy XR Quantum Computing Space Tech Future Technologies Awesome List Curated Resources
+-->
