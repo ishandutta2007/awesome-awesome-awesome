@@ -9,8 +9,7 @@
   <p align="center">
     <a href="https://github.com/ishandutta2007/awesome-awesome-awesome/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/awesome-awesome-awesome?style=for-the-badge&color=38bdf8" alt="GitHub stars"></a>
     <a href="https://github.com/ishandutta2007/awesome-awesome-awesome/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/awesome-awesome-awesome?style=for-the-badge&color=818cf8" alt="GitHub forks"></a>
-    <a href="https://github.com/ishandutta2007/awesome-awesome-awesome/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/awesome-awesome-awesome?style=for-the-badge&color=38bdf8" alt="GitHub license"></a>
-    <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
+    <a href="https://github.com/ishandutta2007/awesome-awesome-awesome/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/awesome-awesome-awesome?style=for-the-badge&color=38bdf8" alt="GitHub license"></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
   </p>
   <br>
   <p>
