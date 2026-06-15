@@ -337,9 +337,13 @@
 
 ---
 
-## Drone & Aerial Mobility
+## 🚁 Drone & Aerial Mobility
 
-### Flight Controllers & Autopilots
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidHd6M3JidHd6M3JidHd6M3JidHd6M3JidHd6M3JidHd6M3ImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKMGpxs7N7Zg6W4/giphy.gif" width="300">
+</p>
+
+### 🎮 Flight Controllers & Autopilots
 
 - [PX4](https://github.com/PX4/PX4-Autopilot) — Professional open-source autopilot; used in research drones and commercial UAVs.
 - [ArduPilot](https://github.com/ArduPilot/ardupilot) — Most feature-rich open-source autopilot; covers copters, planes, rovers, subs.
@@ -348,7 +352,7 @@
 - [iNav](https://github.com/iNavFlight/inav) — Navigation-focused ArduPilot fork with strong fixed-wing support.
 - [dRehmFlight](https://github.com/nickrehm/dRehmFlight) — Lightweight, highly hackable VTOL and drone controller for research.
 
-### Drone Simulation
+### 🖥️ Drone Simulation
 
 - [AirSim (Microsoft)](https://github.com/microsoft/AirSim) — Photorealistic drone and car simulation with physics; built on Unreal Engine.
 - [Flightmare](https://github.com/uzh-rpg/flightmare) — Fast drone simulator for agile flight research; rendering-decoupled architecture.
@@ -357,7 +361,7 @@
 - [Webots Drone](https://github.com/cyberbotics/webots/tree/master/projects/robots/dji) — DJI Mavic simulation in Webots; accessible open-source option.
 - [CrazySwarm](https://github.com/USC-ACTLab/crazyswarm) — Framework for large swarms of Crazyflie drones; real and simulated.
 
-### Swarm & Multi-Vehicle
+### 🐝 Swarm & Multi-Vehicle
 
 - [CrazyFlie](https://github.com/bitcraze/crazyflie-firmware) — Open-source nano quadrotor platform; dominant tool for swarm research.
 - [Buzz](https://github.com/buzz-lang/Buzz) — Swarm-specific programming language for heterogeneous robot collectives.
@@ -366,7 +370,7 @@
 - [MAVSDK](https://github.com/mavlink/MAVSDK) — Cross-platform drone SDK based on MAVLink for autonomous missions.
 - [QGroundControl](https://github.com/mavlink/qgroundcontrol) — Professional open-source ground control station for MAVLink drones.
 
-### Urban Air Mobility (UAM)
+### 🏙️ Urban Air Mobility (UAM)
 
 - [OpenADMS](https://github.com/osmoscope/openadms-node) — Autonomous drone monitoring for infrastructure inspection.
 - [Skybrush](https://github.com/skybrush-io/skybrush-server) — Server platform for choreographed drone shows and fleet management.
@@ -376,9 +380,13 @@
 
 ---
 
-## Computational Biology
+## 🧬 Computational Biology
 
-### Protein Structure & Folding
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidHd6M3JidHd6M3JidHd6M3JidHd6M3JidHd6M3JidHd6M3ImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKVUn7iM8FMEU24/giphy.gif" width="300">
+</p>
+
+### 🧬 Protein Structure & Folding
 
 - [AlphaFold 2 (DeepMind)](https://github.com/google-deepmind/alphafold) — The landmark AI that solved protein structure prediction; changed biology.
 - [AlphaFold 3](https://github.com/google-deepmind/alphafold3) — Extends to DNA, RNA, small molecules, and protein-ligand complexes.
@@ -390,7 +398,7 @@
 - [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) — Diffusion model for de novo protein design; breakthrough in protein engineering.
 - [Boltz-1](https://github.com/jwohlwend/boltz) — Open-source AlphaFold 3 equivalent for biomolecular structure prediction.
 
-### Genomics & Sequencing
+### 🧬 Genomics & Sequencing
 
 - [GATK (Broad Institute)](https://github.com/broadinstitute/gatk) — Gold standard toolkit for variant discovery from sequencing data.
 - [BWA-MEM2](https://github.com/bwa-mem2/bwa-mem2) — Fast sequence alignment for short reads; 2x faster than BWA-MEM.
@@ -403,7 +411,7 @@
 - [Snakemake](https://github.com/snakemake/snakemake) — Pythonic workflow management for reproducible bioinformatics.
 - [STAR](https://github.com/alexdobin/STAR) — Ultra-fast RNA-seq aligner; universal in transcriptomics.
 
-### Drug Discovery
+### 💊 Drug Discovery
 
 - [OpenBB](https://github.com/OpenBB-finance/OpenBBTerminal) — Financial + biotech data terminal with pharma pipeline tracking.
 - [DeepChem](https://github.com/deepchem/deepchem) — Deep learning for chemistry and drug discovery; models for molecular properties.
@@ -415,7 +423,7 @@
 - [OpenFE](https://github.com/OpenFreeEnergy/openfe) — Open platform for free energy calculations in drug discovery.
 - [Boltz-1](https://github.com/jwohlwend/boltz) — Predicts protein-ligand binding structures; key for early-stage drug discovery.
 
-### Single-Cell Analysis
+### 🧫 Single-Cell Analysis
 
 - [Scanpy](https://github.com/scverse/scanpy) — The Python toolkit for single-cell RNA-seq analysis; de facto standard.
 - [Seurat](https://github.com/satijalab/seurat) — R toolkit for single-cell analysis with strong integration methods.
@@ -425,7 +433,7 @@
 - [Squidpy](https://github.com/scverse/squidpy) — Spatial single-cell analysis; integrates spatial transcriptomics.
 - [Anndata](https://github.com/scverse/anndata) — Data format and API for annotated single-cell data matrices.
 
-### Systems Biology
+### 🕸️ Systems Biology
 
 - [COBRA Toolbox](https://github.com/opencobra/cobratoolbox) — Constraint-based reconstruction and analysis for genome-scale metabolic models.
 - [SBML](https://github.com/sbmlteam/libsbml) — Systems Biology Markup Language for exchanging biological models.
@@ -433,7 +441,7 @@
 - [COPASI](https://github.com/copasi/COPASI) — Simulation and analysis of biochemical networks; GUI + scripting API.
 - [libRoadRunner](https://github.com/sys-bio/roadrunner) — Fast SBML simulator for reaction-diffusion systems; used in Tellurium.
 
-### Synthetic Biology
+### 🧪 Synthetic Biology
 
 - [SBOL](https://github.com/SynBioDex/sbol3) — Synthetic Biology Open Language for genetic circuit representation.
 - [Benchling](https://www.benchling.com) — Industry-standard lab informatics platform for sequence design and experiment tracking.
@@ -441,7 +449,7 @@
 - [Cello](https://github.com/CIDARLAB/cello) — Genetic circuit design automation from logic specification to DNA sequence.
 - [iGEM Registry](https://parts.igem.org) — The open catalog of standard biological parts for synthetic biology.
 
-### Bioinformatics Pipelines
+### 🏗️ Bioinformatics Pipelines
 
 - [nf-core](https://github.com/nf-core) — Community-curated Nextflow pipelines for genomics, proteomics, and more.
 - [Galaxy](https://github.com/galaxyproject/galaxy) — Web-based bioinformatics platform for accessible, reproducible analysis.
