@@ -204,9 +204,13 @@
 
 ---
 
-## Generative AI
+## 🎨 Generative AI
 
-### Image Generation
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidHd6M3JidHd6M3JidHd6M3JidHd6M3JidHd6M3JidHd6M3ImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKSjP306SCS5q8M/giphy.gif" width="300">
+</p>
+
+### 🖼️ Image Generation
 
 - [Stable Diffusion (CompVis/Stability)](https://github.com/CompVis/stable-diffusion) — The open-source model that democratized AI image generation.
 - [AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) — The most feature-rich Stable Diffusion web interface; de facto community standard.
@@ -218,7 +222,7 @@
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) — Professional Stable Diffusion toolkit with canvas, workflows, and model management.
 - [Kohya SS](https://github.com/kohya-ss/sd-scripts) — The standard toolkit for LoRA and Dreambooth fine-tuning on custom concepts.
 
-### Video Generation
+### 🎬 Video Generation
 
 - [Wan2.1 (Alibaba)](https://github.com/Wan-Video/Wan2.1) — State-of-the-art open-source video generation model; 14B parameters.
 - [CogVideoX (Zhipu)](https://github.com/THUDM/CogVideo) — Open-source text-to-video model with strong temporal consistency.
@@ -228,7 +232,7 @@
 - [Follow-Your-Emoji](https://github.com/mayuelala/FollowYourEmoji) — Animate face portraits with emoji expressions.
 - [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) — Real-time interactive image generation pipeline; <100ms latency.
 
-### Audio & Music Generation
+### 🎵 Audio & Music Generation
 
 - [AudioCraft (Meta)](https://github.com/facebookresearch/audiocraft) — MusicGen + AudioGen + EnCodec; the comprehensive open audio generation suite.
 - [Stable Audio (Stability AI)](https://github.com/Stability-AI/stable-audio-tools) — Latent diffusion for high-quality stereo audio generation.
@@ -240,7 +244,7 @@
 - [VALL-E X](https://github.com/Plachtaa/VALL-E-X) — Cross-lingual neural codec language model for zero-shot TTS.
 - [Bark](https://github.com/suno-ai/bark) — Transformer-based text-to-audio model with sound effects, music, and speech.
 
-### 3D & Scene Generation
+### 📐 3D & Scene Generation
 
 - [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) — Real-time novel view synthesis from photos; revolutionizing 3D capture.
 - [NeRFStudio](https://github.com/nerfstudio-project/nerfstudio) — Modular NeRF framework with training, export, and viewer for multiple NeRF methods.
@@ -252,7 +256,7 @@
 - [MVDiffusion](https://github.com/Tangshitao/MVDiffusion) — Multi-view consistent panorama and scene generation.
 - [SceneX](https://scenex.jina.ai) — Commercial scene generation from natural language for spatial computing.
 
-### Multimodal Models
+### 👁️ Multimodal Models
 
 - [LLaVA](https://github.com/haotian-liu/LLaVA) — Open-source visual instruction tuning; the most-used open vision-language model.
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL) — Strong open-source vision-language model with fine-grained understanding.
@@ -265,9 +269,13 @@
 
 ---
 
-## Robotics
+## 🦾 Robotics
 
-### Robot Operating Systems & Middleware
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidHd6M3JidHd6M3JidHd6M3JidHd6M3JidHd6M3JidHd6M3ImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/uLWR84B0O8tYA/giphy.gif" width="300">
+</p>
+
+### 🔗 Robot Operating Systems & Middleware
 
 - [ROS 2](https://github.com/ros2/ros2) — The standard robot middleware; real-time capable, production-ready, DDS-based.
 - [micro-ROS](https://github.com/micro-ROS/micro_ros_arduino) — ROS 2 for microcontrollers; brings the ROS ecosystem to embedded hardware.
@@ -278,7 +286,7 @@
 - [LeRobot (Hugging Face)](https://github.com/huggingface/lerobot) — End-to-end learning for real-world robots; datasets, models, and environments.
 - [Nav2](https://github.com/ros-planning/navigation2) — ROS 2 navigation stack for autonomous mobile robots; production-grade.
 
-### Robot Simulation
+### 🎮 Robot Simulation
 
 - [Isaac Sim (NVIDIA)](https://developer.nvidia.com/isaac-sim) — GPU-accelerated photorealistic robot simulation; physics, sensors, ROS 2 integration.
 - [Gazebo / Ignition](https://github.com/gazebosim/gz-sim) — The standard open-source robot simulator; large ecosystem of plugins and models.
@@ -289,7 +297,7 @@
 - [Drake](https://github.com/RobotLocomotion/drake) — Model-based design and simulation for manipulation; MIT/Toyota Research.
 - [SAPIEN](https://github.com/haosulab/SAPIEN) — Realistic articulated object simulation for manipulation research.
 
-### Robot Learning & RL
+### 🧠 Robot Learning & RL
 
 - [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) — Reliable RL algorithm implementations (PPO, SAC, TD3) for robot control.
 - [CleanRL](https://github.com/vwxyzjn/cleanrl) — Single-file RL implementations for clarity and reproducibility.
@@ -300,7 +308,7 @@
 - [Lerobot Datasets](https://huggingface.co/lerobot) — Curated imitation learning datasets for real robot manipulation tasks.
 - [ACT (Action Chunking Transformer)](https://github.com/tonyzhaozh/act) — Bimanual manipulation via imitation learning; used in ALOHA robots.
 
-### Manipulation & Grasping
+### 🤲 Manipulation & Grasping
 
 - [GraspIt!](https://github.com/graspit-simulator/graspit) — Grasp planning simulator for arbitrary hands and objects.
 - [AnyGrasp](https://github.com/graspnet/anygrasp_sdk) — Foundation model for robust 6-DoF grasp detection in cluttered scenes.
@@ -309,7 +317,7 @@
 - [pinocchio](https://github.com/stack-of-tasks/pinocchio) — Fast rigid body dynamics library for control and planning.
 - [CVXPY](https://github.com/cvxpy/cvxpy) — Convex optimization framework widely used in robot trajectory optimization.
 
-### Humanoid Robotics
+### 🧍 Humanoid Robotics
 
 - [OpenHumanoid](https://github.com/OpenRobotLab/OpenHumanoid) — Open platform for humanoid robot research; sim-to-real transfer.
 - [Isaac Lab](https://github.com/isaac-sim/IsaacLab) — NVIDIA's framework for robot learning with Isaac Sim; humanoid locomotion focus.
@@ -318,7 +326,7 @@
 - [Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) — Standard RL environments for robotic manipulation (Shadow Hand, Fetch).
 - [HumanPlus](https://github.com/MarkFzp/humanplus) — Humanoid shadowing and imitation from human video.
 
-### Robot Perception
+### 📷 Robot Perception
 
 - [YOLOv10](https://github.com/THU-MIG/yolov10) — State-of-the-art real-time object detection; NMS-free architecture.
 - [Grounded SAM 2](https://github.com/IDEA-Research/Grounded-SAM-2) — Combines Grounding DINO + SAM 2 for open-vocabulary instance tracking.
