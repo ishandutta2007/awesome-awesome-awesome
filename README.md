@@ -93,7 +93,7 @@
 - [BLOOM](https://huggingface.co/bigscience/bloom) — 176B multilingual model trained openly by 1000+ researchers; landmark collaborative AI.
 - [GPT-NeoX / Pythia (EleutherAI)](https://github.com/EleutherAI/gpt-neox) — Open-source LLM training framework and model suite for research reproducibility.
 
-### Inference Engines & Runtimes
+### ⚡ Inference Engines & Runtimes
 
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) — Run LLMs locally on CPU/GPU in C++; the engine behind most local AI tools.
 - [vLLM](https://github.com/vllm-project/vllm) — PagedAttention-based serving engine; state-of-the-art LLM throughput for production.
@@ -106,7 +106,7 @@
 - [CTranslate2](https://github.com/OpenNMT/CTranslate2) — Efficient inference engine for Transformer models, optimized for CPU and GPU.
 - [ONNX Runtime](https://github.com/microsoft/onnxruntime) — Cross-platform ML inference; the standard for deploying models across hardware.
 
-### Training Frameworks
+### 🏋️ Training Frameworks
 
 - [PyTorch](https://github.com/pytorch/pytorch) — The dominant deep learning framework for research and increasingly production.
 - [JAX](https://github.com/google/jax) — NumPy on accelerators + autograd; preferred at Google DeepMind for frontier research.
@@ -118,7 +118,7 @@
 - [Levanter](https://github.com/stanford-crfm/levanter) — Stanford's JAX-based LLM training framework with strong reproducibility guarantees.
 - [XLA](https://github.com/openxla/xla) — Accelerated Linear Algebra compiler; powers JAX and TensorFlow on TPUs/GPUs.
 
-### Fine-tuning & Alignment
+### 🎯 Fine-tuning & Alignment
 
 - [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) — The most complete LLM fine-tuning toolkit; supports every PEFT method and dataset format.
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) — Unified fine-tuning framework supporting 100+ LLMs with a WebUI.
@@ -130,7 +130,7 @@
 - [ORPO](https://github.com/xfactlab/orpo) — Odds Ratio Preference Optimization; efficient alignment without a reference model.
 - [torchtune](https://github.com/pytorch/torchtune) — PyTorch-native LLM fine-tuning, designed for simplicity and hackability.
 
-### LLM Evaluation
+### 📊 LLM Evaluation
 
 - [lm-evaluation-harness (EleutherAI)](https://github.com/EleutherAI/lm-evaluation-harness) — The standard benchmark suite; used by nearly every open LLM paper.
 - [HELM (Stanford)](https://github.com/stanford-crfm/helm) — Holistic Evaluation of Language Models across 42 scenarios.
@@ -142,7 +142,7 @@
 - [SWE-bench](https://github.com/princeton-nlp/SWE-bench) — Real GitHub issue resolution benchmark; the gold standard for coding agents.
 - [RAGAS](https://github.com/explodinggradients/ragas) — Framework for evaluating RAG pipelines on faithfulness, relevance, and recall.
 
-### LLM Ops & Deployment
+### 🌐 LLM Ops & Deployment
 
 - [LitServe](https://github.com/Lightning-AI/LitServe) — Fast, flexible AI model serving built on FastAPI; production-ready with batching.
 - [BentoML](https://github.com/bentoml/BentoML) — Unified model serving and deployment framework for any ML model.
@@ -154,7 +154,7 @@
 - [MLflow](https://github.com/mlflow/mlflow) — Open platform for ML lifecycle management: tracking, packaging, deployment.
 - [Skypilot](https://github.com/skypilot-org/skypilot) — Run LLM training and inference across any cloud cheaply with automatic spot handling.
 
-### Prompt Engineering & Tooling
+### 🪄 Prompt Engineering & Tooling
 
 - [DSPy](https://github.com/stanfordnlp/dspy) — Programming framework that replaces prompting with declarative AI pipelines.
 - [Guidance](https://github.com/guidance-ai/guidance) — Constrained generation language for reliable structured LLM outputs.
@@ -164,7 +164,7 @@
 - [PromptFlow (Microsoft)](https://github.com/microsoft/promptflow) — Build, evaluate, and deploy LLM flows with built-in quality tooling.
 - [Semantic Kernel (Microsoft)](https://github.com/microsoft/semantic-kernel) — SDK for integrating LLMs into .NET, Python, and Java applications.
 
-### RAG & Vector Databases
+### 📚 RAG & Vector Databases
 
 - [Qdrant](https://github.com/qdrant/qdrant) — High-performance vector search engine in Rust; production-grade with filtering.
 - [Weaviate](https://github.com/weaviate/weaviate) — Open-source vector database with hybrid search (vector + keyword).
@@ -176,7 +176,7 @@
 - [Haystack](https://github.com/deepset-ai/haystack) — End-to-end RAG framework with pipelines, document stores, and evaluation.
 - [R2R](https://github.com/SciPhi-AI/R2R) — Production RAG engine with ingestion pipelines, hybrid search, and auth.
 
-### AI Agents & Orchestration
+### 🤝 AI Agents & Orchestration
 
 - [AutoGen (Microsoft)](https://github.com/microsoft/autogen) — Multi-agent conversation framework; agents that code, browse, and collaborate.
 - [CrewAI](https://github.com/crewAIInc/crewAI) — Role-based multi-agent framework; define crews of specialized agents.
@@ -189,7 +189,7 @@
 - [Browser Use](https://github.com/browser-use/browser-use) — Give AI agents a real browser; web automation for LLM agents.
 - [Claude Code](https://github.com/anthropics/claude-code) — Anthropic's agentic CLI for autonomous coding tasks in real codebases.
 
-### Vibe Coding & AI-Native IDEs
+### 💻 Vibe Coding & AI-Native IDEs
 
 - [Cursor](https://cursor.sh) — VS Code fork with deep AI integration; the leading AI-native IDE.
 - [Windsurf (Codeium)](https://codeium.com/windsurf) — Agentic IDE with Cascade flow; multi-file AI editing with full codebase context.
