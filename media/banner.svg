@@ -16,7 +16,7 @@
   <rect width="800" height="250" fill="url(#grid)" />
   
   <g filter="url(#shadow)">
-    <text x="400" y="110" font-family="system-ui, -apple-system, sans-serif" font-size="52" fill="url(#textGrad)" text-anchor="middle" font-weight="900" letter-spacing="-1">AWESOME AWESOME AWESOME</text>
+    <text x="400" y="110" font-family="system-ui, -apple-system, sans-serif" font-size="48" fill="url(#textGrad)" text-anchor="middle" font-weight="900" letter-spacing="-1">AWESOME AWESOME AWESOME</text>
     <text x="400" y="160" font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="#94a3b8" text-anchor="middle" font-weight="500">The Curated Stack for the Next Decades</text>
   </g>
   
