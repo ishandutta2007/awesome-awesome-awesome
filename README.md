@@ -16,7 +16,7 @@
     <b>💎 A curated list of the most important tools, frameworks, papers, datasets, and resources<br>for the technologies defining the next several decades. 💎</b>
   </p>
   <p>
-    <i>🛰️ Not for web/app devs. For builders of the future techs like AI, Robotics, GPU, BCI, etc. 🧬</i>
+    <i>🛰️ Not for web/app devs. For builders of the future techs like AI, Robotics, GPU, Quantum, BCI, etc. 🧬</i>
   </p>
 </div>
 
