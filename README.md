@@ -852,6 +852,19 @@ See [contributing.md](contributing.md). All contributions welcome — especially
 
 To the extent possible under law, [Ishan Dutta](https://github.com/ishandutta2007) has waived all copyright and related rights to this work.
 
+## Star History
+
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2Fawesome-awesome-awesome&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/awesome-awesome-awesome&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/awesome-awesome-awesome&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/awesome-awesome-awesome&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 <!-- SEO Keywords (Hidden)
 AI ML Generative AI LLM Robotics Drones Computational Biology Drug Discovery Chip Design Semiconductor Energy XR Quantum Computing Space Tech Future Technologies Awesome List Curated Resources
 -->
+
