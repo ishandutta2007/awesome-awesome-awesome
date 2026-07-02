@@ -28,7 +28,7 @@
 
 > **Format:** Each entry is `[Name](url) — Brief, honest description of why it matters.`
 
-> Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome). Maintained at [ishandutta2007/awesome-awesome-awesome](https://github.com/ishandutta2007/awesome-awesome-awesome).
+> Inspired by [sindresorhus/awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome). Maintained at [ishandutta2007/awesome-awesome-awesome](https://github.com/ishandutta2007/awesome-awesome-awesome).
 
 ---
 
