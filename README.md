@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-divider.gif" width="100%">
 </p>
 
-> **Scope:** AI/ML, Generative AI, Robotics, Drones, Computational Biology, Computational Chemistry, EDA & Chip Design, Semiconductor Ecosystems, Computational Energy, Extended Reality (XR), Quantum Computing, Space Tech, and more — all technologies with outsized impact in the coming decades.
+> **Scope:** AI/ML, Generative AI, Robotics, Drones, Computational Biology, Computational Chemistry, EDA & Chip Design, Semiconductor Ecosystems, Computational Energy, Extended Reality (XR), Quantum Computing, Space Tech, and more — all emerging technologies with outsized impact in the coming decades.
 
 > **Format:** Each entry is `[Name](url) — Brief, honest description of why it matters.`
 
