@@ -827,6 +827,7 @@
 
 ## 🤝 Communities & Conferences
 
+- [Semiconductor Events & Conferences](https://semiconductorcalendar.com/) — Helps engineers find upcoming semiconductor, EDA, photonics, quantum-hardware, packaging, and manufacturing events.
 - [NeurIPS](https://neurips.cc) — Top venue for ML and AI research; sets the agenda annually.
 - [ICML](https://icml.cc) — International Conference on Machine Learning; core theoretical AI research.
 - [ICLR](https://iclr.cc) — Learning representations research; heavily cited in LLM and RL work.
