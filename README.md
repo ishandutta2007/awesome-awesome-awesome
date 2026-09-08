@@ -3,7 +3,7 @@
 <meta name="keywords" content="AI, Machine Learning, Generative AI, Robotics, Drones, Computational Biology, Drug Discovery, Chip Design, EDA, Quantum Computing, Space Tech, Future Tech, Awesome List">
 
 <div align="center">
-  <img src="media/banner.svg" alt="Awesome Awesome Awesome Banner" width="100%">
+  <img src="assets/banner.svg" alt="Awesome Awesome Awesome Banner" width="100%">
   <br>
   <h1>🚀 Awesome Awesome Awesome 🤖</h1>
   <p align="center">
