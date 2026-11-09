@@ -7,7 +7,7 @@
   <br>
   <h1>🚀 Awesome Awesome Awesome 🤖</h1>
   <p align="center">
-    <a href="https://github.com/ishandutta2007/awesome-awesome-awesome/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/awesome-awesome-awesome?style=for-the-badge&color=38bdf8" alt="GitHub stars"></a>
+    <a href="https://github.com/ishandutta2007/awesome-awesome-awesome/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/awesome-awesome-awesome?style=for-the-badge&color=38bdf8" alt="GitHub_Stars"></a>
     <a href="https://github.com/ishandutta2007/awesome-awesome-awesome/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/awesome-awesome-awesome?style=for-the-badge&color=818cf8" alt="GitHub forks"></a>
     <a href="https://github.com/ishandutta2007/awesome-awesome-awesome/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/awesome-awesome-awesome?style=for-the-badge&color=38bdf8" alt="GitHub license"></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
   </p>
@@ -869,3 +869,12 @@ To the extent possible under law, [Ishan Dutta](https://github.com/ishandutta200
 AI ML Generative AI LLM Robotics Drones Computational Biology Drug Discovery Chip Design Semiconductor Energy XR Quantum Computing Space Tech Future Technologies Awesome List Curated Resources
 -->
 
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/awesome-awesome-awesome&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_awesome-awesome-awesome_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_awesome-awesome-awesome_growth.svg">
+  </picture>
+</a>
